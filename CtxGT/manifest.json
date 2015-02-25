@@ -10,7 +10,7 @@
 	  "https://ajax.googleapis.com/"
 	],
 	"icons": {
-    "16": "context-menu-icon.png",
+    "16": "context-menu-icon.png"
   },
   "background": {
     "scripts": ["translate_context_menu.js"]
